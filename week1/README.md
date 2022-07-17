@@ -1,3 +1,5 @@
+- [BACK TO FULL COURSE DESCRIPTION](https://github.com/Andre-Arante/introtowebdesign)
+
 # Week 1 - HTML
 
 - [Displaying Text](#displaying-text)
