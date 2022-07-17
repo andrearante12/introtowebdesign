@@ -1,5 +1,12 @@
 # Week 1 - HTML
 
+- [Displaying Text](#displaying-text)
+- [Lists](#lists)
+- [Styling Tags](#styling-tags)
+- [Other Useful Tags](#other-useful-tags)
+- [Centering Elements](#centering-elements)
+- [Comments](#comments)
+
 # What is HTML?
 
 - Stands for Hypertext Markup Language
@@ -48,11 +55,13 @@ Remember! You have to provide link to an image
 
 `<a href="https://google.com" target="_blank"></a>` - Anchor (link) tag
 
-# Other useful things
+## Centering elements
 
 `body { text-align: center; }`
 
 Will center-align everything on the page
+
+## Comments
 
 <strong>Must be placed under CSS tab!!</strong>
 
