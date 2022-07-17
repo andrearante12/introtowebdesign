@@ -24,7 +24,7 @@
     <tr>
         <td>2</td>
         <td>TBD</td>
-        <td>CSS - Selectors, Fonts, and Colors</td>
+        <td>CSS - Typography, Selectors, and Colors</td>
         <td>TODO</td>
         <td>Introductions but COOLER <br> Blog</td>
     </tr>
