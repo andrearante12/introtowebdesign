@@ -17,7 +17,7 @@
         <td>
             <a href="https://github.com/Andre-Arante/introtowebdesign/tree/main/week1">Notes1</a>
             <br>
-            <a href="https://docs.google.com/presentation/d/17pPgx6n9qfETWCDRAlTMOg-RQw8OS9v4sAzjZ63YHe8/edit?usp=sharing">Slides1</a>
+            <a href="https://docs.google.com/presentation/d/17pPgx6n9qfETWCDRAlTMOg-RQw8OS9v4sAzjZ63YHe8/edit?usp=sharing" target="_blank">Slides1</a>
         </td>
         <td>Introductions</td>
     </tr>
