@@ -1,4 +1,4 @@
-- [BACK TO FULL COURSE DESCRIPTION](https://github.com/Andre-Arante/introtowebdesign)
+[BACK TO FULL COURSE DESCRIPTION](https://github.com/Andre-Arante/introtowebdesign)
 
 # Week 1 - HTML
 
@@ -17,7 +17,7 @@
 
 # How to write HTML?
 
-## Displaying Text
+# Displaying Text
 
 `<p>` - Paragraph tag
 
@@ -25,7 +25,7 @@
 
 `<h2> <h3> ... <h6>` - Other sizing options
 
-## Lists
+# Lists
 
 ```
 <ul>
@@ -41,7 +41,7 @@ Creates this:
     <li>Item Two</li>
 </ul>
 
-## Styling Tags
+# Styling Tags
 
 `<strong>some text</strong>` - makes text bold
 
@@ -49,7 +49,7 @@ Creates this:
 
 `<br>` - line breaks
 
-## Other Useful Tags
+# Other Useful Tags
 
 `<img src="myphoto.jpg" alt="description"/>` - Image tag
 
@@ -57,13 +57,13 @@ Remember! You have to provide link to an image
 
 `<a href="https://google.com" target="_blank"></a>` - Anchor (link) tag
 
-## Centering elements
+# Centering elements
 
 `body { text-align: center; }`
 
 Will center-align everything on the page
 
-## Comments
+# Comments
 
 <strong>Must be placed under CSS tab!!</strong>
 
