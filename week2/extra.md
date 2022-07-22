@@ -37,11 +37,6 @@ IN HTML
 
 - allows you to select based on an element with an attribute
 
-`a:hover { ... }` - psuedo class
-
-- allows you to make conditional declarations after certain user interactions
-- e.g. :focus, :visited, :disabled, :active
-
 # Line Height
 
 <p>Default Line</p>

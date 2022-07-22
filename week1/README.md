@@ -59,13 +59,13 @@ Remember! You have to provide link to an image
 
 # Centering elements
 
+<strong>Must be placed under CSS tab!!</strong>
+
 `body { text-align: center; }`
 
 Will center-align everything on the page
 
 # Comments
-
-<strong>Must be placed under CSS tab!!</strong>
 
 `<!-- comment -->`
 
